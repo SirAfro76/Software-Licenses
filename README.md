@@ -1,2 +1,3 @@
-# Software Licenses 
- A Collection of all Software Licences
+# Software Licenses
+
+A Collection of all Software Licences
